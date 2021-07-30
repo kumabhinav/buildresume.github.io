@@ -141,8 +141,10 @@ body{
 }
   
   #darkbtn{
-      position: relative;
-      margin-left: 10px;
+     position: relative;
+    margin-left: 10px;
+    float: right;
+    top: -4px;
   }
   
   .container #para:hover{
