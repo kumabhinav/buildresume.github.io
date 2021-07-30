@@ -20,6 +20,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
 }
+
 .img-fluid{
     /* border: 1px solid red; */
     /* border-radius: 50%;
@@ -128,11 +129,16 @@ body{
   .darkmode{
      background: #000 !important;
     color: white;
+      transition: 1.5s;
      
   }
   .darkmode .header{
       background-color: rgb(192, 65, 65);
   }
+.darkmode  #para{
+    color: rgb(192, 65, 65);
+
+}
   
   #darkbtn{
       position: relative;
