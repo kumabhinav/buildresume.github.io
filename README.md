@@ -9,7 +9,7 @@ No problem! You can make your resume from scratch by filling up some fields, and
 
 🔗https://kumabhinav.github.io/buildresume.github.io/
 
-# °Features:
+# Features:-
 •Real time design 
 
 •Build your resume without registration
@@ -18,7 +18,7 @@ No problem! You can make your resume from scratch by filling up some fields, and
 
 •Export as PDF (selectable text)
 
-# °Future Scope:
+# Future Scope:-
 • New themes will be introduce
 
 • Custom Templates will Allow the user to customize the template as required.
